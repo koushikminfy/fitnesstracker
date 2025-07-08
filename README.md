@@ -70,6 +70,17 @@ PUT /api/user/profile
 ![updating calopries and protien intake](https://github.com/user-attachments/assets/4dcb7537-387f-41ea-bb67-0ce2ff9edc06)
 
 
+#### Get Dashboard Summary
+
+```
+GET /api/diary/dashboard?date=2025-07-07
+```
+
+
+![foodlog on the given date](https://github.com/user-attachments/assets/cc10d607-1c8c-45ca-b7e0-7129b307e34c)
+
+
+
 ###  Diary / Food Log
 
 ####  Log Food
@@ -82,12 +93,4 @@ POST /api/diary
 ![posting logs](https://github.com/user-attachments/assets/fffa2a9c-8b07-4ab0-82bd-8bf6a0dafc02)
 
 
-#### Get Dashboard Summary
-
-```
-GET /api/diary/dashboard?date=2025-07-07
-```
-
-
-![foodlog on the given date](https://github.com/user-attachments/assets/cc10d607-1c8c-45ca-b7e0-7129b307e34c)
 
